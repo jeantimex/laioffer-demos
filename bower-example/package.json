@@ -1,0 +1,14 @@
+{
+  "name": "bower-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yong Su <jean.timex@gmail.com> (https://github.com/jeantimex)",
+  "license": "ISC",
+  "dependencies": {
+    "bower": "^1.7.9"
+  }
+}
