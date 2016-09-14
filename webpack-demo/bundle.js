@@ -45,7 +45,7 @@
 /***/ function(module, exports, __webpack_require__) {
 
 	__webpack_require__(1);
-	document.write("Hello World 1");
+	document.write("Hello World");
 	document.write(__webpack_require__(5));
 
 /***/ },
